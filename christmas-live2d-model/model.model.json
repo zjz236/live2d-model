@@ -5,11 +5,11 @@
 	"textures": [
 		"model.2048/texture_00.png"
 	],
-  "motions": {
-    "idle": [
-      {
-        "file": "11.mtn"
-      }
-    ]
-  }
+	"motions": {
+		"idle": [
+			{
+				"file": "11.mtn"
+			}
+		]
+	}
 }
